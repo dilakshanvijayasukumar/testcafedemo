@@ -1,5 +1,5 @@
 import { Selector } from 'testcafe';
-import faker from '@faker-js/faker';
+import {faker} from '@faker-js/faker';
 import LoginPage from '../pages/Loginpage';
 import Productpage from '../pages/Productpage';
 import CartPage from '../pages/CartPage';
